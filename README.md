@@ -1,6 +1,6 @@
 # Steem Witness Price Feed (Go)
 
-Go rewrite of the [Node.js pricefeed](https://github.com/steemfans/pricefeed) tool for Steem witnesses. It fetches STEEM/USD prices from multiple APIs, averages successful sources, and publishes `feed_publish` transactions to the blockchain.
+Go rewrite of the [Node.js pricefeed](https://github.com/DoctorLai/pricefeed) tool for Steem witnesses. It fetches STEEM/USD prices from multiple APIs, averages successful sources, and publishes `feed_publish` transactions to the blockchain.
 
 Docker image: `steemfans/go-pricefeed:latest`
 
