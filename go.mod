@@ -2,6 +2,8 @@ module github.com/steemfans/go-pricefeed
 
 go 1.22
 
+toolchain go1.27.3
+
 require github.com/steemit/steemgosdk v0.0.19
 
 require (
